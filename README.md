@@ -1,4 +1,4 @@
-# Introduction to JavaScript and DOM Manipulation
+# Introduction to JavaScript and DOM Manipulation WEEK 5
 
 ## Objectives
 
